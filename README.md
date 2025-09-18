@@ -70,4 +70,4 @@ When it drops below the threshold → the fan turns OFF.
 ## 📷 Project Images
 
 ```markdown
-![Smart Home](images/smart_home.jpg)
+Smart Home>>(https://github.com/ShadwFarid/Smart-Home/commit/508916c7108d2bb1532d114b77373a0d5feb80c3)
